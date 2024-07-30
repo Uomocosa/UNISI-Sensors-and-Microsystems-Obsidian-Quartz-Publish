@@ -1,0 +1,8 @@
+- [[SaM - Magnetic Lumped Parameter System • Electro-Motive Force • Variable Reluctance]]
+- [[SaM - VRS (Variable Reluctance Sensors)]]
+- [[SaM - Eddy Currents • Eddy Probe]]
+	- [[SaM - Front End for an Eddy Probe]]
+- [[SaM - Different Solutions for Contactless Probes • Inductive Senors vs. Capacitive Sensors]]
+- [[SaM - LVDT Sensor (Linear Variable Differential Transformer) • Transformers • Magnetic Induction]]
+- [[SaM - 5 Wires LVDT (Linear Variable Differential Transformer)]]
+- [[SaM - Hall Sensor]]

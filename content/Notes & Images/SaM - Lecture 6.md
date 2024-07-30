@@ -1,0 +1,10 @@
+- [[SaM - Instrinsic Semiconductor • Density of Carriers • Energy Gap and Carriers Dependance on Temperature]]
+- [[SaM - Mass Action Law]] #IMPORTANTE 
+- [[SaM - Behaviour of Semiconductors at Different Temperatures]] #IMPORTANTE 
+- [[SaM - Dependence of the Fermi Energy on Temperature]] #IMPORTANTE 
+- [[SaM - Surface Defects & Grain Boundary Barriers]] #IMPORTANTE 
+- [[SaM - Continuity Equation for Charge Carriers]] (*Skip*)
+- [[SaM - Ohm's Law]]
+- [[SaM - Conductivity and Mobility of Intrisinc Silicon]]
+- [[SaM - Thermal Activated Conductivity • Dependence of Conductivity on Temperature]]
+- [[SaM - Piezoresistivity Effect]]

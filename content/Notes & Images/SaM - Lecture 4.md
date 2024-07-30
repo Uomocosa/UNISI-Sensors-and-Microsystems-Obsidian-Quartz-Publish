@@ -1,0 +1,10 @@
+- [[SaM - Gyroscope]]
+- [[SaM - Accelerometer]] #IMPORTANTE 
+- [[SaM - Non-Idealities of an Accelerometer]] #IMPORTANTE 
+- [[SaM - Transfer Funtion of a Mounted Accelerometer]] #IMPORTANTE 
+- [[SaM - Physical Dependencies of a Sensor]]
+- [[SaM - Microstructure of Solids]]
+- [[SaM - Atomic Bond Types]]
+- [[SaM - Pauli Principle]] #IMPORTANTE 
+- [[SaM - Field Band of Silicon • Energy Gap, Valence Band, Conduction Band]] #IMPORTANTE 
+- [[SaM - Electric Condution]]

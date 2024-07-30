@@ -1,0 +1,3 @@
+- [[SaM - Geometrical Magneto Resistance|Geometrical Magneto Resistance]]
+- [[SaM - Types of Magneto Resistances|Types of Magneto Resistances]]
+- [[SaM - Anisotropic Magneto Resistance (AMR) • Easy Axis • Barber Pole • Honeywell|Anisotropic Magneto Resistance]]

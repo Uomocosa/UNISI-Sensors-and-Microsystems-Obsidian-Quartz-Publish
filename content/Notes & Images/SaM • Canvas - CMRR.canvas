@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"60e35c5d0a429e2f","type":"file","file":"Notes and Images/SaM - Summary of the Calculation of CMRR for an Instrumentational Amplifier.md","x":160,"y":-160,"width":400,"height":400},
+		{"id":"9d30cfd24b56b385","type":"file","file":"Notes and Images/SaM - CMRR of an Instrumentational Amplifier.md","x":480,"y":560,"width":400,"height":400},
+		{"id":"599d27167c3ff611","type":"file","file":"Notes and Images/SaM - CMRR due to the Circuit Topology.md","x":-120,"y":560,"width":400,"height":400},
+		{"id":"af2861b774ae68f5","type":"file","file":"Notes and Images/SaM - Definition of CMRR (Common Mode Rejection Ratio).md","x":-520,"y":-440,"width":400,"height":400},
+		{"id":"f11493bbd484bc6b","x":160,"y":-680,"width":400,"height":400,"type":"file","file":"SaM ~ CMRR of a Simple Differential Amplifier.md"}
+	],
+	"edges":[
+		{"id":"4db67becab96bf7d","fromNode":"af2861b774ae68f5","fromSide":"right","toNode":"60e35c5d0a429e2f","toSide":"left"},
+		{"id":"25c5b51defa5d1cd","fromNode":"599d27167c3ff611","fromSide":"top","toNode":"60e35c5d0a429e2f","toSide":"bottom"},
+		{"id":"177ca5875d59b8e2","fromNode":"9d30cfd24b56b385","fromSide":"top","toNode":"60e35c5d0a429e2f","toSide":"bottom"},
+		{"id":"55947c73b43106bb","fromNode":"af2861b774ae68f5","fromSide":"right","toNode":"f11493bbd484bc6b","toSide":"left"}
+	]
+}

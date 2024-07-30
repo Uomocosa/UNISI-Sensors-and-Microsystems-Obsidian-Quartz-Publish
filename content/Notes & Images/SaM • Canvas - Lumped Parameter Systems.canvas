@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"9eb409c4249821d8","type":"group","x":-1300,"y":400,"width":880,"height":1840,"label":"Basic Components for the Thermal Systems"},
+		{"id":"36ef95b8de9c71ab","type":"group","x":-1300,"y":920,"width":440,"height":1320,"color":"2","label":"Thermal Resistance"},
+		{"id":"69ae9b986ac3b41a","type":"file","file":"Notes and Images/SaM - Lumped Parameter Systems.md","x":-40,"y":-620,"width":400,"height":400},
+		{"id":"518d1b34d6b67543","type":"file","file":"Notes and Images/SaM - Thermal Lumped Parameter System.md","x":-1060,"y":-100,"width":400,"height":400},
+		{"id":"f42f25883c75ddb7","type":"file","file":"Notes and Images/SaM - Principles for Thermal Domain Simulation.md","x":-1060,"y":420,"width":400,"height":400},
+		{"id":"2c61c9cdcfd2be91","type":"file","file":"Notes and Images/SaM - Heat Convection • Thermal Resistance.md","x":-1280,"y":940,"width":400,"height":400},
+		{"id":"184d5e9a9c5c7da0","type":"file","file":"Notes and Images/SaM - Heat Stored in a Body • Thermal Capacitance.md","x":-840,"y":940,"width":400,"height":400},
+		{"id":"96b5f3ebcd85f349","type":"file","file":"Notes and Images/SaM - Heat Conduction • Thermal Resistance.md","x":-1280,"y":1380,"width":400,"height":400},
+		{"id":"101cc4ec2913ede3","type":"file","file":"Notes and Images/SaM - Conclusions on Heat Conduction and Heat Convection.md","x":-1280,"y":1820,"width":400,"height":400},
+		{"id":"699fce09e5beca15","type":"file","file":"Notes and Images/SaM - Magnetic Lumped Parameter System • Electro-Motive Force • Variable Reluctance.md","x":920,"y":-100,"width":400,"height":400},
+		{"id":"7e93314e42440ac1","type":"file","file":"Notes and Images/SaM - Mechanical Lumped Parameter System.md","x":-360,"y":-100,"width":400,"height":400},
+		{"id":"2d5949924d96a482","type":"file","file":"Notes and Images/SaM - Coarse Approximation of the Lumped Parameter Model of an Ultrasonic Transducer.md","x":280,"y":-100,"width":400,"height":400},
+		{"id":"c8df4a6932be5ecd","type":"file","file":"SaM - Acustic Impedance • Ultrasonic Lumped Parameter System.md","x":280,"y":420,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"edf850afb02e3954","fromNode":"69ae9b986ac3b41a","fromSide":"bottom","toNode":"2d5949924d96a482","toSide":"top"},
+		{"id":"337bfdde1aac750f","fromNode":"69ae9b986ac3b41a","fromSide":"bottom","toNode":"518d1b34d6b67543","toSide":"top"},
+		{"id":"1e1bf6dcfa2a9f73","fromNode":"69ae9b986ac3b41a","fromSide":"bottom","toNode":"7e93314e42440ac1","toSide":"top"},
+		{"id":"7a278921e976ea8d","fromNode":"69ae9b986ac3b41a","fromSide":"bottom","toNode":"699fce09e5beca15","toSide":"top"},
+		{"id":"a77cf25ab7551653","fromNode":"518d1b34d6b67543","fromSide":"bottom","toNode":"f42f25883c75ddb7","toSide":"top"},
+		{"id":"3c66e7de00a64518","fromNode":"f42f25883c75ddb7","fromSide":"bottom","toNode":"184d5e9a9c5c7da0","toSide":"top"},
+		{"id":"c550508dd38ff619","fromNode":"2d5949924d96a482","fromSide":"bottom","toNode":"c8df4a6932be5ecd","toSide":"top"}
+	]
+}

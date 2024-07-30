@@ -1,0 +1,5 @@
+- [[SaM - Magnetic Lumped Parameter System • Electro-Motive Force • Variable Reluctance]]
+- [[SaM - VRS (Variable Reluctance Sensors)]]
+- [[SaM - Eddy Currents • Eddy Probe]]
+- [[SaM - Different Solutions for Contactless Probes • Inductive Senors vs. Capacitive Sensors]]
+- [[SaM - Front End for an Eddy Probe]]

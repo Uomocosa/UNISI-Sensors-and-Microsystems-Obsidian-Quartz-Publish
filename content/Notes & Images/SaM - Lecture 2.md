@@ -1,0 +1,6 @@
+- [[Laplace Domain]] #TODO (*Skip*)
+- [[SaM - Lumped Parameter Systems]] #IMPORTANTE 
+- [[SaM - Self-Heating]] #IMPORTANTE 
+- [[SaM - Recap of Basic Components • Resistance, Capacitance, Inductance • Resistivity, Permittivity, Permeability]] #IMPORTANTE 
+- [[SaM - Types of Active Sensors]]
+- [[SaM - Traditional Sensors vs. MEMS • MEMS Technology]]

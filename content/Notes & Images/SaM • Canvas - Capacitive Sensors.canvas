@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"71391b94da39e7f1","type":"group","x":-280,"y":80,"width":1320,"height":1320,"color":"1","label":"Capacitive Sensors"},
+		{"id":"26b27767874b8ddd","type":"group","x":-60,"y":1540,"width":880,"height":1420,"color":"6","label":"Readout "},
+		{"id":"19c338c8cea1c4d4","type":"file","file":"Notes and Images/SaM - Capacitive Level Sensor.md","x":-260,"y":100,"width":400,"height":400},
+		{"id":"a5374c99fbae7ecf","type":"file","file":"Notes and Images/SaM - Capacitive Displacement Sensors.md","x":180,"y":100,"width":400,"height":400},
+		{"id":"161c10fe6f97ad22","type":"file","file":"Notes and Images/SaM - Capacitive Accelerometer.md","x":-260,"y":540,"width":400,"height":400},
+		{"id":"8cac3b014fa5e205","type":"file","file":"Notes and Images/SaM - MEMS Capacitive Pressure Sensor.md","x":180,"y":540,"width":400,"height":400},
+		{"id":"d73d5ce6972d25b9","type":"file","file":"Notes and Images/SaM - Types of Capacitive Sensors.md","x":180,"y":-500,"width":400,"height":400},
+		{"id":"9f72d1723b368911","type":"file","file":"SaM - Differences Between Grounded and Un-grounded Capacitive Sensors.md","x":1480,"y":540,"width":400,"height":400},
+		{"id":"45e23784d11414c1","type":"file","file":"Notes and Images/SaM - Different Solutions for Contactless Probes • Inductive Senors vs. Capacitive Sensors.md","x":1160,"y":100,"width":400,"height":400},
+		{"id":"e334b0731cf89ff3","type":"file","file":"Notes and Images/SaM - Capacitive Proximity Sensors.md","x":620,"y":100,"width":400,"height":400},
+		{"id":"8e31c847e3069405","type":"file","file":"Notes and Images/SaM ~ Examples of Capacitive Sensors.md","x":620,"y":540,"width":400,"height":400},
+		{"id":"02cd67f6fac832be","type":"file","file":"Notes and Images/SaM - Capacitive (Ferroelectric) Temperature Sensor.md","x":-260,"y":980,"width":400,"height":400},
+		{"id":"a072fb72455d00f6","type":"file","file":"Notes and Images/SaM - Capacitive Ultrasonic Transducers • CMUT Probes.md","x":180,"y":980,"width":400,"height":400},
+		{"id":"8942562aa62e05a1","type":"file","file":"SaM - Readout Electronics for Capacitive Sensors (FM & AM Oscillators).md","x":180,"y":1560,"width":400,"height":400},
+		{"id":"8dbec1c8de1a25e6","type":"file","file":"SaM - AM (Amplitude Modulation) Based on Oscillators.md","x":400,"y":2080,"width":400,"height":400},
+		{"id":"1d94c615a8420192","type":"file","file":"SaM - FM (Frequency Modulation) Based on Oscillators.md","x":-40,"y":2080,"width":400,"height":400},
+		{"id":"1bd6d6a437cabb49","x":400,"y":2540,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - AM Modulation with 2 Sensors • Carrier Amplifier.md"}
+	],
+	"edges":[
+		{"id":"07a46e2334ae1318","fromNode":"d73d5ce6972d25b9","fromSide":"bottom","toNode":"71391b94da39e7f1","toSide":"top"},
+		{"id":"4bb2613f55e88b0d","fromNode":"71391b94da39e7f1","fromSide":"right","toNode":"9f72d1723b368911","toSide":"left"},
+		{"id":"4d093669a17ee631","fromNode":"e334b0731cf89ff3","fromSide":"right","toNode":"45e23784d11414c1","toSide":"left"},
+		{"id":"eb08575c430374dc","fromNode":"8942562aa62e05a1","fromSide":"bottom","toNode":"1d94c615a8420192","toSide":"top"},
+		{"id":"9a526eeca932fa3e","fromNode":"8942562aa62e05a1","fromSide":"bottom","toNode":"8dbec1c8de1a25e6","toSide":"top"},
+		{"id":"f4812b4daa25ffe3","fromNode":"71391b94da39e7f1","fromSide":"bottom","toNode":"26b27767874b8ddd","toSide":"top"},
+		{"id":"35205c4c1f4f786a","fromNode":"8dbec1c8de1a25e6","fromSide":"bottom","toNode":"1bd6d6a437cabb49","toSide":"top"}
+	]
+}

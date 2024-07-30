@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d41c85bf99f400d0","x":-380,"y":-960,"width":880,"height":440,"color":"#ffffff","type":"group","label":"Piezoreisistive Effect"},
+		{"id":"f45c6194567b1d2c","x":-380,"y":-360,"width":880,"height":440,"color":"4","type":"group","label":"Real World Examples"},
+		{"id":"eb14bc0b4b68a202","x":-380,"y":260,"width":880,"height":440,"type":"group","label":"Piezoresisitivity of Doped Semiconductors"},
+		{"id":"811698c19453c322","x":-360,"y":280,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Dependency of the Piezoresistance Factor on the Concentration of Dopants.md"},
+		{"id":"036654bb9053addc","x":80,"y":280,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Piezoresistance of Doped Silicon • Doped Silicon as a Strain Gauge.md"},
+		{"id":"f0839fb123b2f129","x":-360,"y":-340,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM ~ Real Worlds Example • Table of Piezoresistive Coefficients Values.md"},
+		{"id":"0ad7d42922b9fa6a","x":80,"y":-340,"width":400,"height":400,"type":"file","file":"SaM - Collapsed Piezoresistive Coefficient Tensor for Silicon.md"},
+		{"id":"eedbeee2bd473652","x":-360,"y":-940,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Piezoresistivity Effect in Details.md"},
+		{"id":"f809ba3f15ac4bea","x":80,"y":-940,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Piezoresistivity Effect.md"}
+	],
+	"edges":[
+		{"id":"a0622778cde30234","fromNode":"d41c85bf99f400d0","fromSide":"bottom","toNode":"f45c6194567b1d2c","toSide":"top"},
+		{"id":"2305b35f74ff116c","fromNode":"f45c6194567b1d2c","fromSide":"bottom","toNode":"eb14bc0b4b68a202","toSide":"top"}
+	]
+}

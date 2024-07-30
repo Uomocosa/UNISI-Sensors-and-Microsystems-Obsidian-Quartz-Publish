@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"f068fd02b6a398a3","type":"group","x":640,"y":-920,"width":1320,"height":880,"label":"RTD (Resitisitve Temperature Detector) Sensor"},
+		{"id":"11a06f5b611e9b12","type":"group","x":-1160,"y":-40,"width":880,"height":1320,"color":"5","label":"BJT Temperature Sensors"},
+		{"id":"5110090e41180a14","type":"group","x":640,"y":200,"width":880,"height":880,"color":"3","label":"Thermocouples"},
+		{"id":"e2a2dc4e911ed590","type":"group","x":-1160,"y":-720,"width":880,"height":440,"color":"4","label":"Thermistor"},
+		{"id":"62ee416f955ffcbc","type":"file","file":"Notes and Images/SaM - Different Types of Temperature Sensors.md","x":-20,"y":-240,"width":400,"height":400},
+		{"id":"8c80f8af87960332","type":"file","file":"Notes and Images/SaM - Definition of RTD Sensors • Resistive Temperatrure Detector Sensors • TCR (Temperature Coefficient of Resitance).md","x":860,"y":-900,"width":400,"height":400},
+		{"id":"0d37b34260946f89","type":"file","file":"Notes and Images/SaM - Calendar Van Dusen Equation for RTD Sensors.md","x":1300,"y":-900,"width":400,"height":400},
+		{"id":"849a5c115839546b","type":"file","file":"Notes and Images/SaM - RTD Example • Linearized Uncertainty.md","x":660,"y":-460,"width":400,"height":400},
+		{"id":"9e1bb2d2c34db56c","type":"file","file":"Notes and Images/SaM ~ Real World Example • Standard RTD Sensor • PT100 Sensor.md","x":1100,"y":-460,"width":400,"height":400},
+		{"id":"7dabae96c51aeb16","type":"file","file":"Notes and Images/SaM ~ Solution Based on a Resistive Bridge and an RTD.md","x":1540,"y":-460,"width":400,"height":400},
+		{"id":"57aa7552cdd6f082","type":"file","file":"Notes and Images/SaM - Definition of Thermistor.md","x":-1140,"y":-700,"width":400,"height":400},
+		{"id":"bc2a11cdb4f8f401","type":"file","file":"Notes and Images/SaM - Steinhart-Hart Relashionship and Different Standard of Thermistor.md","x":-700,"y":-700,"width":400,"height":400},
+		{"id":"b91b9c08b4bad52e","type":"file","file":"Notes and Images/SaM - Classical Band Gap Based Temperature Sensor (2 Pins).md","x":-1140,"y":420,"width":400,"height":400},
+		{"id":"c72693b70030f18d","type":"file","file":"Notes and Images/SaM ~ Real World Example of a Classical Band Gap Based Temperature Sensor.md","x":-920,"y":860,"width":400,"height":400},
+		{"id":"06bf54397ad48256","type":"file","file":"Notes and Images/SaM - Classical Band Gap Based Temperature Sensor (3 Pins).md","x":-700,"y":420,"width":400,"height":400},
+		{"id":"e94f280dd8e00f58","type":"file","file":"Notes and Images/SaM - Sensors Based on Silicon Junctions (BJT and Integrated Circuits).md","x":-920,"y":-20,"width":400,"height":400},
+		{"id":"89de91e5cd2d4081","type":"file","file":"Notes and Images/SaM - Defintion of Thermocouples • Law of Thermocouples • Types of Thermocouples • Extension Wires.md","x":660,"y":220,"width":400,"height":400},
+		{"id":"5d7ca5939d4b5778","type":"file","file":"Notes and Images/SaM - Thermal Representation of a Thermocouple.md","x":1100,"y":220,"width":400,"height":400},
+		{"id":"3337180c4bc4a0d0","type":"file","file":"Notes and Images/SaM - Thermocouples (Class I & II).md","x":660,"y":660,"width":400,"height":400},
+		{"id":"7d01cba6b7ada9ad","type":"file","file":"Notes and Images/SaM - Cold Junction for Thermocouples.md","x":1100,"y":660,"width":400,"height":400},
+		{"id":"20930aba093417d8","type":"file","file":"Notes and Images/SaM - Thermopiles.md","x":1720,"y":440,"width":400,"height":400},
+		{"id":"06e048fba358c0d4","type":"file","file":"Notes and Images/SaM - Primary Sensor for Temperature.md","x":-20,"y":-880,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"bdf36b9e850bbe0a","fromNode":"5110090e41180a14","fromSide":"right","toNode":"20930aba093417d8","toSide":"left"},
+		{"id":"a91f7187d11b6762","fromNode":"62ee416f955ffcbc","fromSide":"top","toNode":"06e048fba358c0d4","toSide":"bottom"},
+		{"id":"d943137d3af24cec","fromNode":"62ee416f955ffcbc","fromSide":"right","toNode":"f068fd02b6a398a3","toSide":"left"},
+		{"id":"58a3f3f3703b0af3","fromNode":"62ee416f955ffcbc","fromSide":"bottom","toNode":"5110090e41180a14","toSide":"left"},
+		{"id":"11403e05d1d5f2b5","fromNode":"62ee416f955ffcbc","fromSide":"bottom","toNode":"11a06f5b611e9b12","toSide":"right"},
+		{"id":"f974961cfaa4fbbf","fromNode":"62ee416f955ffcbc","fromSide":"left","toNode":"e2a2dc4e911ed590","toSide":"right"}
+	]
+}

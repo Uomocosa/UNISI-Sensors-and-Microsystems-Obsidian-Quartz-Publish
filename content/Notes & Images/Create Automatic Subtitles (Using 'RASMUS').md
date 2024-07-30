@@ -1,0 +1,6 @@
+- [ffmpeg](https://ffmpeg.org)
+- Convert a video (`.mp4` file) to an only audio (`.mp3` file)
+	- Open the Window's Commands Promt, type:
+	- `cd C:\...`
+	- `ffmpeg -i "video_name.mp4" "video_name.mp3"`
+- Go to [hugging-face: RASMUS](https://huggingface.co/spaces/RASMUS/Whisper-youtube-crosslingual-subtitles) drop the audio and create subtitles.

@@ -1,0 +1,13 @@
+- [[SaM - Types of Sensor]]
+- [[SaM - Definition of Primary Sensor]]
+- [[SaM - Front End Electronics Strategies]]
+- [[SaM - Characteristics of a Sensor]] #IMPORTANTE 
+- [[SaM - Ideal Linear Sensor]]
+- [[SaM - ODE (Ordinary Differential Equation)]] (*Skip*)
+- [[SaM - Stable Poles]] (*Skip*)
+- [[SaM - Modes Related to Conjugate Poles]] (*Skip*)
+- [[SaM - Poles with Multiplicity Higher than 1]] (*Skip*)
+- [[SaM - Final Value Theorem and Steady State Response]]
+- [[SaM - First Order System]] (*Skip*)
+- [[SaM - No Distortion Conditions]] 
+- [[SaM - Higher Order Systems]]

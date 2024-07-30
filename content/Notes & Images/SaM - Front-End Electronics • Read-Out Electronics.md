@@ -1,0 +1,13 @@
+- [[SaM - Voltage Supply vs. Current Supply]]
+- [[SaM - Accuracy of the Complete Measurement System]]
+- [[SaM - Single Input Amplifier]]
+- [[SaM - Differential Amplifier]]
+- [[SaM - Instrumentational Amplifier]]
+- ***Read-Out Electronics for AM and FM Circuits***:
+	- [[SaM - Readout Electronics for Capacitive Sensors (FM & AM Oscillators)]]
+		- [[SaM - FM (Frequency Modulation) Based on Oscillators]]
+		- [[SaM - AM (Amplitude Modulation) Based on Oscillators]]
+		- [[SaM - AM Modulation with 2 Sensors • Carrier Amplifier]]
+	- [[SaM - Switched Capacitors]]
+	- [[SaM - Sigma-Delta Converter (AD Converter)]]
+- [[SaM - Front End for an Eddy Probe]]

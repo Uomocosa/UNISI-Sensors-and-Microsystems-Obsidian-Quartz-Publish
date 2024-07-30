@@ -1,0 +1,2 @@
+Actually, there are also some other types of measuring systems, because ==**flow** can be also measured by means of *FAN* or *TURBINE*==.
+So the moving fluid transforms its own speed/energy into a rotational motion of devices like a fan or a turbine.

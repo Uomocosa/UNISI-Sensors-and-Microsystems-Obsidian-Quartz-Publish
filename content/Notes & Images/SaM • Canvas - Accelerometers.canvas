@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0eb69ea2a685bc37","x":-540,"y":-140,"width":1320,"height":441,"color":"1","type":"group","label":"Basic Accelerometer"},
+		{"id":"4868c34a7cf5c084","x":-520,"y":-120,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Accelerometer.md"},
+		{"id":"aed3a55f07437635","x":-80,"y":-119,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Transfer Funtion of a Mounted Accelerometer.md"},
+		{"id":"a7109683bfa15b43","x":360,"y":-119,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Non-Idealities of an Accelerometer.md"},
+		{"id":"a5d5f476d924cc19","x":-680,"y":480,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Capacitive Accelerometer.md"},
+		{"id":"d6c78ffb449c146d","x":-80,"y":480,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Piezoelectric Accelerometer.md"},
+		{"id":"95edbf9233ccd111","x":520,"y":480,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Charge Output Accelerometer.md"}
+	],
+	"edges":[
+		{"id":"c7a66974d8a1fa0b","fromNode":"0eb69ea2a685bc37","fromSide":"bottom","toNode":"a5d5f476d924cc19","toSide":"top"},
+		{"id":"902e88fef4d41803","fromNode":"0eb69ea2a685bc37","fromSide":"bottom","toNode":"d6c78ffb449c146d","toSide":"top"},
+		{"id":"e1cb95e333281c17","fromNode":"0eb69ea2a685bc37","fromSide":"bottom","toNode":"95edbf9233ccd111","toSide":"top"}
+	]
+}

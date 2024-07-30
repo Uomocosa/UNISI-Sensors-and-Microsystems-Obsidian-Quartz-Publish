@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"42484170e2c27835","x":240,"y":80,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Inverting Operational Amplifier.md"},
+		{"id":"461e2011a0dff018","x":240,"y":-400,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Non-Inverting Operational Amplifier.md"},
+		{"id":"79a554741c71d6a1","x":240,"y":-880,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Operational Amplifier as a Voltage Comparator.md"},
+		{"id":"263c2299862320ed","x":240,"y":560,"width":400,"height":400,"type":"file","file":"SaM - Non-Ideal Operational Amplifier • OZE (Out of Zero Error) • Special Kinds of Operational Amplifiers • Precision Amplifier  • Low Noise • Low Input Bias Current • Zero Drift • Low Noise Operational Amplifier.md"},
+		{"id":"bbf23ec47ea3329b","x":-400,"y":-160,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Operational Amplifier.md"}
+	],
+	"edges":[
+		{"id":"eec2990183c2d1f8","fromNode":"bbf23ec47ea3329b","fromSide":"right","toNode":"79a554741c71d6a1","toSide":"left"},
+		{"id":"b632b024802828bc","fromNode":"bbf23ec47ea3329b","fromSide":"right","toNode":"461e2011a0dff018","toSide":"left"},
+		{"id":"77ba6c9329c151a7","fromNode":"bbf23ec47ea3329b","fromSide":"right","toNode":"42484170e2c27835","toSide":"left"},
+		{"id":"03733f8fabde4c78","fromNode":"bbf23ec47ea3329b","fromSide":"right","toNode":"263c2299862320ed","toSide":"left"}
+	]
+}
