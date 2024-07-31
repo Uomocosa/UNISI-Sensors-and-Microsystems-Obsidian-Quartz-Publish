@@ -1,0 +1,9 @@
+- Passive Sensor:
+	- **Resistive Sensors**
+	- Reactive Sensors
+		- **Capacitive Sensors**
+		- **Inductive Sensors**
+- Active Sensors:
+	- **Piezoelectric Sensors**
+	- **Thermoelectric Sensors**
+- **Oscillators**

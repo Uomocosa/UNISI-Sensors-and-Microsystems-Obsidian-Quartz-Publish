@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"93f663302bd47a60","type":"group","x":-1580,"y":0,"width":1360,"height":980,"color":"1","label":"Variable Reluctance's Sensors"},
+		{"id":"881714a31979a98b","type":"group","x":-360,"y":-1800,"width":1320,"height":980,"color":"5","label":"Magneto Resisitances"},
+		{"id":"d126efa0231a1bfe","type":"group","x":-1560,"y":520,"width":1320,"height":440,"color":"6","label":"LVDT (Linear Variable Differential Transformer)"},
+		{"id":"13222ee4138d2a8d","type":"group","x":-1320,"y":-1260,"width":880,"height":440,"label":"Physiscs"},
+		{"id":"ab153de0fdf2a214","type":"group","x":-740,"y":-620,"width":880,"height":440,"label":"Principles for Magnetic or Inductive Sensors"},
+		{"id":"476c530f1da611ca","type":"group","x":-140,"y":0,"width":880,"height":440,"color":"1","label":"Eddy'current sensors"},
+		{"id":"4db909f58cce2003","type":"file","file":"Notes and Images/SaM - Magnetic Permeability • Magnetic Susceptibility • Magnetic Field.md","x":-1300,"y":-1240,"width":400,"height":400},
+		{"id":"4d64448762f55c32","type":"file","file":"Notes and Images/SaM - Types of Magnetic Materials (Diamagnetic, Paramagnetic and Ferromagnetic Material).md","x":-860,"y":-1240,"width":400,"height":400},
+		{"id":"bda4fdd5ff65a3d8","type":"file","file":"SaM - Types of Magneto Resistances.md","x":-340,"y":-1240,"width":400,"height":400},
+		{"id":"9cbd989d0ec982df","type":"file","file":"SaM - Geometrical Magneto Resistance.md","x":100,"y":-1240,"width":400,"height":400},
+		{"id":"5f8ee1bf000d3503","type":"file","file":"Notes and Images/SaM - Anisotropic Magneto Resistance (AMR) • Easy Axis • Barber Pole • Honeywell.md","x":540,"y":-1240,"width":400,"height":400},
+		{"id":"99f278cbce75c91c","type":"file","file":"Notes and Images/SaM - Magneto Resitances.md","x":100,"y":-1780,"width":400,"height":400},
+		{"id":"0ad1f3a03910ce85","type":"file","file":"Notes and Images/SaM - Magnetic Lumped Parameter System • Electro-Motive Force • Variable Reluctance.md","x":-720,"y":-600,"width":400,"height":400},
+		{"id":"192222d10d9a9961","type":"file","file":"Notes and Images/SaM - Eddy Currents • Eddy Probe.md","x":-280,"y":-600,"width":400,"height":400},
+		{"id":"d33c3466b17d486f","type":"file","file":"SaM - Characteristics of Different Kinds of LVDTs.md","x":-660,"y":540,"width":400,"height":400},
+		{"id":"20bd09ecff74c146","type":"file","file":"Notes and Images/SaM - Inductive Proximity Sensor.md","x":-1540,"y":40,"width":400,"height":400},
+		{"id":"0e6163291d5771a3","type":"file","file":"Notes and Images/SaM - LVDT Sensor (Linear Variable Differential Transformer) • Transformers • Magnetic Induction.md","x":-1540,"y":540,"width":400,"height":400},
+		{"id":"c09a6b5af29b7051","type":"file","file":"Notes and Images/SaM - Variable Transformers.md","x":-1100,"y":40,"width":400,"height":400},
+		{"id":"fbf0658c86e674a9","type":"file","file":"SaM - 5 Wires LVDT (Linear Variable Differential Transformer).md","x":-1100,"y":540,"width":400,"height":400},
+		{"id":"e3d8a52b7b63ebd3","type":"file","file":"Notes and Images/SaM - Different Solutions for Contactless Probes • Inductive Senors vs. Capacitive Sensors.md","x":-2140,"y":40,"width":400,"height":400},
+		{"id":"2d413bfb73e53134","type":"file","file":"Notes and Images/SaM - Front End for an Eddy Probe.md","x":-120,"y":20,"width":400,"height":400},
+		{"id":"e72964f122076103","type":"file","file":"Notes and Images/SaM - Hall Sensor.md","x":320,"y":20,"width":400,"height":400},
+		{"id":"978c6895be194ddc","x":-660,"y":40,"width":400,"height":400,"type":"file","file":"SaM - VRS (Variable Reluctance Sensors).md"}
+	],
+	"edges":[
+		{"id":"adffe42001bc6211","fromNode":"99f278cbce75c91c","fromSide":"bottom","toNode":"bda4fdd5ff65a3d8","toSide":"top"},
+		{"id":"e0ed3b95ed3dcb2d","fromNode":"99f278cbce75c91c","fromSide":"bottom","toNode":"9cbd989d0ec982df","toSide":"top"},
+		{"id":"49cb8fee997c7f79","fromNode":"99f278cbce75c91c","fromSide":"bottom","toNode":"5f8ee1bf000d3503","toSide":"top"},
+		{"id":"4b8935dfcb6754ab","fromNode":"20bd09ecff74c146","fromSide":"left","toNode":"e3d8a52b7b63ebd3","toSide":"right"},
+		{"id":"9672533021d35088","fromNode":"13222ee4138d2a8d","fromSide":"bottom","toNode":"ab153de0fdf2a214","toSide":"top"},
+		{"id":"95937660c1371f30","fromNode":"881714a31979a98b","fromSide":"bottom","toNode":"ab153de0fdf2a214","toSide":"top"},
+		{"id":"1baeb1ab26433dab","fromNode":"0ad1f3a03910ce85","fromSide":"bottom","toNode":"93f663302bd47a60","toSide":"top"},
+		{"id":"b789cbde6a7e1288","fromNode":"192222d10d9a9961","fromSide":"bottom","toNode":"476c530f1da611ca","toSide":"top"}
+	]
+}

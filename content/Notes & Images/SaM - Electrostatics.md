@@ -1,0 +1,5 @@
+- [[SaM - Electric Permittivity • Electric Susceptibility • Electric Field]]
+- [[SaM - Special Materials for the Electric Permittivity • Paraelectric, Piezoelectric, Ferroelectric]]
+- [[SaM - Pyroelectric Effect]]
+- [[SaM - Complex Electric Permittivity]]
+- [[SaM - Dielectric Materials]] (*Skip*)

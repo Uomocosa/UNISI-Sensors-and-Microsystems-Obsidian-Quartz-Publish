@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"802a6e3e3d7c5d43","type":"group","x":-180,"y":560,"width":2200,"height":440,"label":"Untitled group"},
+		{"id":"003e977235b2f0f7","type":"group","x":-180,"y":-20,"width":880,"height":440,"label":"Untitled group"},
+		{"id":"9640ecc5e5376b2e","type":"file","file":"SaM - Elastic Waves and Acustic Waves • Calculation of the Wave Equation.md","x":-160,"y":-760,"width":400,"height":400},
+		{"id":"fa92d227a42e7de3","type":"file","file":"SaM - Planar Waves or Plane Waves.md","x":440,"y":-1000,"width":400,"height":400},
+		{"id":"337c90eae568c912","type":"file","file":"SaM - Longitudinal Waves or Compressive Waves.md","x":440,"y":-520,"width":400,"height":400},
+		{"id":"32a3ad9cc0675993","type":"file","file":"SaM - Generic Ultrasonic Wave Function • Longitudinal and Transvers Propagation Velocities of an Ultrasonic Wave.md","x":-160,"y":0,"width":400,"height":400},
+		{"id":"d1767e4f59ab80fe","type":"file","file":"SaM ~ Example of an Ultrasonic Wave Function • Sine Plane Wave.md","x":280,"y":0,"width":400,"height":400},
+		{"id":"2ef37f9da945b905","type":"file","file":"Notes and Images/SaM - Ultrasonic Waves.md","x":-800,"y":320,"width":400,"height":400},
+		{"id":"44f9a3c401b3da7f","type":"file","file":"SaM - Reflection of an Ultrasonic Wave.md","x":-160,"y":580,"width":400,"height":400},
+		{"id":"fe1d566147e2c4ad","type":"file","file":"SaM - Scattering and Diffuse Reflection of an Ultrasonic Wave.md","x":280,"y":580,"width":400,"height":400},
+		{"id":"0d638c03dda796b6","type":"file","file":"SaM - Matching Layer for Acustic Impedance.md","x":720,"y":580,"width":400,"height":400},
+		{"id":"9c9e245c222c54c8","type":"file","file":"SaM - Standing Waves.md","x":1160,"y":580,"width":400,"height":400},
+		{"id":"2b7bca9a0a450487","type":"file","file":"SaM ~ Real World Example • Propagation of an Ultrasonic Wave in Different Materials.md","x":1600,"y":580,"width":400,"height":400},
+		{"id":"ace159890d935924","type":"file","file":"SaM - Newtonian Fluid Sensor • Shear or Transverse Wave Sensor (Piezoelectric Device).md","x":-160,"y":1100,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"5e9905a8ab3e1d68","fromNode":"9640ecc5e5376b2e","fromSide":"right","toNode":"337c90eae568c912","toSide":"left"},
+		{"id":"0ab855dadc6686de","fromNode":"9640ecc5e5376b2e","fromSide":"right","toNode":"fa92d227a42e7de3","toSide":"left"},
+		{"id":"783b945f5335fe47","fromNode":"2ef37f9da945b905","fromSide":"right","toNode":"9640ecc5e5376b2e","toSide":"left"},
+		{"id":"f8702f27fe6acead","fromNode":"2ef37f9da945b905","fromSide":"right","toNode":"003e977235b2f0f7","toSide":"left"},
+		{"id":"19e501aa1d1a8305","fromNode":"2ef37f9da945b905","fromSide":"right","toNode":"802a6e3e3d7c5d43","toSide":"left"},
+		{"id":"6b97c6c9a83b83d4","fromNode":"2ef37f9da945b905","fromSide":"right","toNode":"ace159890d935924","toSide":"left"}
+	]
+}

@@ -1,0 +1,16 @@
+- [[SaM - Pyroelectric Effect]]
+- [[SaM - Dielectric Materials]]
+- [[SaM - Complex Electric Permittivity]]
+- [[SaM - Magnetic Permeability • Magnetic Susceptibility • Magnetic Field]]
+- [[SaM - Types of Magnetic Materials (Diamagnetic, Paramagnetic and Ferromagnetic Material)]]
+- [[SaM - Potentiometer]]
+- [[SaM - Primary Sensor for Temperature]] (*Skip*)
+- [[SaM - Self-Heating]] #IMPORTANTE 
+- [[SaM - Coupling with the Environment (and Solution)]] #IMPORTANTE 
+- ***RTD*** #IMPORTANTE 
+	- [[SaM - Definition of RTD Sensors • Resistive Temperatrure Detector Sensors • TCR (Temperature Coefficient of Resitance)]]
+	- [[SaM ~ Real World Example • Standard RTD Sensor • PT100 Sensor]]
+	- [[SaM - Calendar Van Dusen Equation]]
+- ***Thermistor*** #IMPORTANTE 
+	- [[SaM - Definition of Thermistor]]
+	- [[SaM - Steinhart-Hart Relashionship and Different Standard of Thermistor]]

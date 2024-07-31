@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5e261ce6041c8025","type":"group","x":0,"y":-400,"width":1440,"height":440,"color":"4","label":"Solutions"},
+		{"id":"7b89c8e8389b2f7e","type":"group","x":-500,"y":-580,"width":440,"height":940,"color":"1","label":"Problem"},
+		{"id":"7191fea69a98d9c9","type":"file","file":"Notes and Images/SaM - Electrical Noise.md","x":-480,"y":-560,"width":400,"height":400},
+		{"id":"523aab6cb983bccf","type":"file","file":"Notes and Images/SaM - Triboelectric Noise.md","x":-480,"y":-60,"width":400,"height":400},
+		{"id":"4dc131192d0f2514","type":"file","file":"Notes and Images/SaM - Shields.md","x":20,"y":-380,"width":400,"height":400},
+		{"id":"b157b2e8af00b0eb","type":"file","file":"Notes and Images/SaM - Coaxial Cable.md","x":520,"y":-380,"width":400,"height":400},
+		{"id":"5f6210e5e90e9dcc","type":"file","file":"Notes and Images/SaM - Driven Shields or Tri-Axial Cable.md","x":1020,"y":-380,"width":400,"height":400},
+		{"id":"d6a1a62da2f885d6","x":-480,"y":480,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM ~ Vibration Measurement Based on Strain Gauge.md"}
+	],
+	"edges":[
+		{"id":"278d44b6fb9fa768","fromNode":"7191fea69a98d9c9","fromSide":"right","toNode":"4dc131192d0f2514","toSide":"left"},
+		{"id":"40cefe4fabd22fbc","fromNode":"7191fea69a98d9c9","fromSide":"bottom","toNode":"523aab6cb983bccf","toSide":"top"},
+		{"id":"6ae316fb2b128597","fromNode":"4dc131192d0f2514","fromSide":"right","toNode":"b157b2e8af00b0eb","toSide":"left"},
+		{"id":"dca0379ae51dd1aa","fromNode":"b157b2e8af00b0eb","fromSide":"right","toNode":"5f6210e5e90e9dcc","toSide":"left"},
+		{"id":"1d19eaa280be1129","fromNode":"523aab6cb983bccf","fromSide":"right","toNode":"5f6210e5e90e9dcc","toSide":"bottom"},
+		{"id":"92fd1d59a73d3cb3","fromNode":"7b89c8e8389b2f7e","fromSide":"bottom","toNode":"d6a1a62da2f885d6","toSide":"top"}
+	]
+}

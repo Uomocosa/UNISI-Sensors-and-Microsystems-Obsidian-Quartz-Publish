@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f7cf9c6f206f0db8","type":"group","x":400,"y":0,"width":440,"height":920,"label":"Instrumentational Amplifier"},
+		{"id":"124cf28a5130fc05","type":"group","x":-300,"y":-540,"width":880,"height":440,"label":"Untitled group"},
+		{"id":"8057540c70e7ea05","type":"file","file":"Notes and Images/SaM - Voltage Amplifier.md","x":-280,"y":-520,"width":400,"height":400},
+		{"id":"743d7ebee01d1cf5","type":"file","file":"Notes and Images/SaM - Current Amplifier.md","x":160,"y":-520,"width":400,"height":400},
+		{"id":"7708f3195f94b83d","type":"file","file":"Notes and Images/SaM - Instrumentational Amplifier.md","x":423,"y":36,"width":400,"height":400},
+		{"id":"f87799fa5e7d8086","type":"file","file":"Notes and Images/SaM ~ Example of a Real Instrumentational Amplifier • INA128.md","x":420,"y":500,"width":400,"height":400},
+		{"id":"ac6291376e9af87f","type":"file","file":"SaM • Canvas - CMRR.canvas","x":1100,"y":260,"width":400,"height":400},
+		{"id":"70960a7d8cd5fb5c","type":"file","file":"Notes and Images/SaM - Differential Amplifier.md","x":-280,"y":260,"width":400,"height":400},
+		{"id":"9d13cd4e6b99a814","x":-240,"y":960,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Square Wave Oscillator.md"},
+		{"id":"d02c4b1ad639c603","x":-240,"y":1440,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Charge Amplifier.md"},
+		{"id":"bf7810da50aa7e20","x":440,"y":1440,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Complete AM (Amplitude Modulation) Circuit.md"},
+		{"id":"29ccd91ab0ffa01d","x":-240,"y":1920,"width":400,"height":400,"type":"file","file":"Notes and Images/SaM - Sigma-Delta Converter (AD Converter).md"},
+		{"id":"b8899eb96baf415d","type":"file","file":"SaM • Canvas - Operational Amplifier.canvas","x":-1000,"y":640,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2c3a991dad3e3992","fromNode":"f7cf9c6f206f0db8","fromSide":"right","toNode":"ac6291376e9af87f","toSide":"left"},
+		{"id":"96bb8b5687faba2a","fromNode":"b8899eb96baf415d","fromSide":"right","toNode":"124cf28a5130fc05","toSide":"left"},
+		{"id":"a2ba1c827968d11c","fromNode":"70960a7d8cd5fb5c","fromSide":"right","toNode":"f7cf9c6f206f0db8","toSide":"left"},
+		{"id":"e8822e33a15a9567","fromNode":"b8899eb96baf415d","fromSide":"right","toNode":"70960a7d8cd5fb5c","toSide":"left"},
+		{"id":"fe44ae177e447716","fromNode":"d02c4b1ad639c603","fromSide":"right","toNode":"bf7810da50aa7e20","toSide":"left"},
+		{"id":"ceb6d63fcba84cb0","fromNode":"b8899eb96baf415d","fromSide":"right","toNode":"9d13cd4e6b99a814","toSide":"left"},
+		{"id":"c9f2b15834916773","fromNode":"b8899eb96baf415d","fromSide":"right","toNode":"d02c4b1ad639c603","toSide":"left"},
+		{"id":"d0eb714d4d02448e","fromNode":"b8899eb96baf415d","fromSide":"right","toNode":"29ccd91ab0ffa01d","toSide":"left"}
+	]
+}

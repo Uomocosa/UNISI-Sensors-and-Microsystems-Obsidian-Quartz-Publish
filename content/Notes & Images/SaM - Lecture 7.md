@@ -1,0 +1,5 @@
+[[SaM - Types of Magneto Resistances]]
+[[SaM - Anisotropic Magneto Resistance (AMR) • Easy Axis • Barber Pole • Honeywell]]
+[[SaM - Electric Permittivity • Electric Susceptibility • Electric Field]]
+[[SaM - Special Materials for the Electric Permittivity • Paraelectric, Piezoelectric, Ferroelectric]]
+[[SaM - Piezoelectric Effect in Details • Direct and Inverse Piezoelectric Effect]]

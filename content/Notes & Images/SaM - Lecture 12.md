@@ -1,0 +1,7 @@
+- [[SaM - Full Bridge]]
+- [[SaM - Wire Resistance in a Resistive Bridge (2 and 3 Wires Layout)]]
+- [[SaM ~ Complete Sensor • Load Cell with a Resistive Bridge]]
+- [[SaM ~ Complete Sensor • Accelerometer with a Resistive Bridge]]
+- [[SaM - Differential Amplifier]]
+- [[SaM - CMRR (Common Mode Rejection Ratio)]] #IMPORTANTE 
+- [[SaM ~ Vibration Measurement Based on Strain Gauge]]

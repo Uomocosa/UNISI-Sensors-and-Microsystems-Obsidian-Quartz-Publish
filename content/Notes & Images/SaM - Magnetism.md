@@ -1,0 +1,7 @@
+- [[SaM - Magnetic Permeability • Magnetic Susceptibility • Magnetic Field]]
+- [[SaM - Types of Magnetic Materials (Diamagnetic, Paramagnetic and Ferromagnetic Material)]]
+- [[SaM - Geometrical Magneto Resistance]]
+	- [[SaM - Drift Current • Current Density Equation]]
+- [[SaM - Types of Magneto Resistances]]
+- [[SaM - Anisotropic Magneto Resistance (AMR) • Easy Axis • Barber Pole • Honeywell]]
+- [[SaM - Inductive Sensors]]

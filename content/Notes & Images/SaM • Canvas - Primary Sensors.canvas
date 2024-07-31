@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"8fc6f30d9176d10f","x":-320,"y":-800,"width":1800,"height":1600,"type":"group","label":"Preassure"},
+		{"id":"9a20a8486c1db2f4","type":"group","x":-300,"y":-180,"width":1760,"height":440,"color":"5","label":"Preassure for Liquids"},
+		{"id":"b66f7e318dc90562","type":"group","x":-300,"y":340,"width":1760,"height":440,"color":"2","label":"Preassure for Solids"},
+		{"id":"b53f003c9273c6a7","type":"group","x":-2960,"y":-820,"width":1760,"height":440,"color":"1","label":"Sensor for Flux"},
+		{"id":"8c9a3800f2fb99a4","type":"group","x":-300,"y":-700,"width":880,"height":440,"color":"4","label":"Definition and Equation"},
+		{"id":"8c24c2de683f95a8","x":-980,"y":-440,"width":440,"height":880,"color":"3","type":"group","label":"Definitions"},
+		{"id":"3687ac511335275e","type":"file","file":"Notes and Images/SaM - MEMS Membranes.md","x":160,"y":360,"width":400,"height":400},
+		{"id":"c2064c722abcd3d7","type":"file","file":"Notes and Images/SaM - Deformable Structures.md","x":-280,"y":360,"width":400,"height":400},
+		{"id":"6be467cb7e71f289","type":"file","file":"Notes and Images/SaM - Load Cells or Pillar.md","x":600,"y":360,"width":400,"height":400},
+		{"id":"fc75878cc808bee5","type":"file","file":"Notes and Images/SaM - Different Definitions for Preassure.md","x":-280,"y":-680,"width":400,"height":400},
+		{"id":"9f29d12fc84f51e8","type":"file","file":"Notes and Images/SaM - Bernoulli Equation.md","x":160,"y":-680,"width":400,"height":400},
+		{"id":"a492b04d5908ba15","type":"file","file":"Notes and Images/SaM - MEMS Cantilever.md","x":1040,"y":360,"width":400,"height":400},
+		{"id":"243713db0059a8ce","type":"file","file":"Notes and Images/SaM - Liquid Columns.md","x":600,"y":-160,"width":400,"height":400},
+		{"id":"ec4f087c96d4f235","type":"file","file":"Notes and Images/SaM - Pitot Tube.md","x":1040,"y":-160,"width":400,"height":400},
+		{"id":"40efddb64ff6325f","type":"file","file":"Notes and Images/SaM - Burdón Tubes.md","x":-280,"y":-160,"width":400,"height":400},
+		{"id":"d981010889434450","type":"file","file":"Notes and Images/SaM - Orifices.md","x":160,"y":-160,"width":400,"height":400},
+		{"id":"61a32b99129d412b","type":"file","file":"Notes and Images/SaM - Types of Primary Sensors.md","x":-960,"y":20,"width":400,"height":400},
+		{"id":"9faf5eb24e3b2b88","type":"file","file":"Notes and Images/SaM - Definition of Primary Sensor.md","x":-960,"y":-420,"width":400,"height":400},
+		{"id":"a8c1ea422925b7ac","type":"file","file":"Notes and Images/SaM - Anemometry or Hot Wire.md","x":-2940,"y":-800,"width":400,"height":400},
+		{"id":"636fd73dd869b0a7","type":"file","file":"Notes and Images/SaM - Doppler Effect for Primary Sensors.md","x":-2500,"y":-800,"width":400,"height":400},
+		{"id":"e2fcabb88043515a","type":"file","file":"Notes and Images/SaM - Time of Flight Principle for Primary Sensors.md","x":-2060,"y":-800,"width":400,"height":400},
+		{"id":"e3face36fea93962","type":"file","file":"Notes and Images/SaM - Fan or Turbine.md","x":-1620,"y":-800,"width":400,"height":400},
+		{"id":"b6684f3bda6d30e0","type":"file","file":"Notes and Images/SaM - Gyroscope.md","x":-1620,"y":-200,"width":400,"height":400},
+		{"id":"734920cc10924249","type":"file","file":"Notes and Images/SaM - Primary Sensor for Temperature.md","x":-1620,"y":400,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"5ebb9c45b59fe689","fromNode":"8c24c2de683f95a8","fromSide":"right","toNode":"8fc6f30d9176d10f","toSide":"left"},
+		{"id":"374d4dfc39e506bb","fromNode":"8c24c2de683f95a8","fromSide":"left","toNode":"b6684f3bda6d30e0","toSide":"right"},
+		{"id":"53c95e5c0efd17d1","fromNode":"8c24c2de683f95a8","fromSide":"left","toNode":"b53f003c9273c6a7","toSide":"right"},
+		{"id":"be212aac62f00a36","fromNode":"8c24c2de683f95a8","fromSide":"left","toNode":"734920cc10924249","toSide":"right"}
+	]
+}

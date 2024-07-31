@@ -1,0 +1,8 @@
+- [[SaM - Field Band of Silicon • Energy Gap, Valence Band, Conduction Band]] #IMPORTANTE 
+- [[SaM - Band Structures of Different Materials]] #IMPORTANTE 
+- [[SaM - Fermi Dirac Distribution]] #IMPORTANTE 
+- [[SaM - Instrinsic Semiconductor • Density of Carriers • Energy Gap and Carriers Dependance on Temperature]] (*Skip*)
+- [[SaM - Behaviour of Semiconductors at Different Temperatures]] #IMPORTANTE 
+- [[SaM - Definition of Doping]] #IMPORTANTE 
+- [[SaM - Doping of Silicon]] #IMPORTANTE 
+- [[SaM ~ Ex. Electro-Neutrality of an n-type Doped Silicon]] (*Skip*)

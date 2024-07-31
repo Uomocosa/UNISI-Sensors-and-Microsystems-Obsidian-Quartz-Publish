@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"c67125050687a965","type":"group","x":-940,"y":400,"width":1480,"height":960,"color":"4","label":"Examples"},
+		{"id":"f5f37ea6b87f647d","type":"group","x":-920,"y":460,"width":880,"height":880,"color":"5","label":"Examples: Resistive Bridge with Strain Gauges"},
+		{"id":"c6ef7929448c1c4a","type":"group","x":-1080,"y":-780,"width":1760,"height":440,"color":"6","label":"Stress and Strain"},
+		{"id":"05b4f8e819910eba","type":"group","x":-1080,"y":-180,"width":1760,"height":440,"color":"1","label":"Strain Sensor: Strain Gauges"},
+		{"id":"d3e68bca0fd46f5c","type":"file","file":"Notes and Images/SaM - Metal Strain Gauge • Passive Strain Sensor.md","x":-1060,"y":-160,"width":400,"height":400},
+		{"id":"511e1196441a4d86","type":"file","file":"Notes and Images/SaM - Working Conditions of a Strain Gauge.md","x":-620,"y":-160,"width":400,"height":400},
+		{"id":"e4e0aea857bfb6dc","type":"file","file":"Notes and Images/SaM - Piezoresistance of Doped Silicon • Doped Silicon as a Strain Gauge.md","x":-180,"y":-160,"width":400,"height":400},
+		{"id":"929e61fd64140ce3","type":"file","file":"SaM - Definition of Stress and Strain • Definition of Strain and Stress • Stress Vector • Strain Vector.md","x":-1060,"y":-760,"width":400,"height":400},
+		{"id":"47c95a0f0d95345a","type":"file","file":"Notes and Images/SaM - Young and Poisson Modulus.md","x":-620,"y":-760,"width":400,"height":400},
+		{"id":"dc3354c1ab0191d7","type":"file","file":"SaM - Hooke's Law • Collapsed Yieldness Tensor for Isotropic Materials.md","x":-180,"y":-760,"width":400,"height":400},
+		{"id":"b1142eb13ffa7002","type":"file","file":"SaM - Collapsed Stiffness Tensor for Isotropic Materials.md","x":260,"y":-760,"width":400,"height":400},
+		{"id":"6e0b10a46aaf2e85","type":"file","file":"Notes and Images/SaM - Load Cells or Pillar.md","x":260,"y":-160,"width":400,"height":400},
+		{"id":"bc9af48cbba75bd4","type":"file","file":"Notes and Images/SaM ~ Half Bridge Example • Two Strain Gauges.md","x":-900,"y":480,"width":400,"height":400},
+		{"id":"2a4541d70d01e75a","type":"file","file":"Notes and Images/SaM ~ Resistive Bridge Example • Strain Gauge.md","x":-460,"y":480,"width":400,"height":400},
+		{"id":"e1c5def509206c05","type":"file","file":"Notes and Images/SaM ~ Vibration Measurement Based on Strain Gauge.md","x":120,"y":480,"width":400,"height":400},
+		{"id":"be4b5da77b4426c9","type":"file","file":"Notes and Images/SaM ~ Real World Example • Metal Strain Gauge.md","x":-620,"y":920,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f3fdda7e95e94596","fromNode":"05b4f8e819910eba","fromSide":"bottom","toNode":"c67125050687a965","toSide":"top"},
+		{"id":"aef6e8d51ce3138d","fromNode":"c6ef7929448c1c4a","fromSide":"bottom","toNode":"05b4f8e819910eba","toSide":"top"}
+	]
+}

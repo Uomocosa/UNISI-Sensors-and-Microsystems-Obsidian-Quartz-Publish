@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"27290dc49581bbc2","type":"group","x":-760,"y":720,"width":1360,"height":1060,"color":"1","label":"Piezoelectric Sensors"},
+		{"id":"7eb89a0799ee7ef2","type":"group","x":-1800,"y":-820,"width":880,"height":1500,"color":"#ffffff","label":"Quartz"},
+		{"id":"21bca26b6df2d22a","type":"group","x":600,"y":-840,"width":880,"height":880,"label":"Notes on the Piezoelectric Formula"},
+		{"id":"b430c3f0b64463f7","type":"group","x":-740,"y":800,"width":1320,"height":440,"color":"5","label":"Simple Piezoelectric Sensors"},
+		{"id":"08f583d6acd98637","type":"group","x":-740,"y":1320,"width":880,"height":440,"color":"6","label":"Ultrasonic waves and Piezoelectric Sensors"},
+		{"id":"ef09ecc8bc073a69","type":"group","x":-500,"y":60,"width":840,"height":440,"color":"5","label":"Description of Piezoelectric Devices or Sensors"},
+		{"id":"a4aa2afe5a68d438","type":"group","x":-500,"y":-620,"width":840,"height":440,"color":"4","label":"Piezoelectric Effect"},
+		{"id":"633fed976ddd4628","type":"group","x":-1780,"y":220,"width":840,"height":440,"color":"#ffffff","label":"Quartz Oscillator"},
+		{"id":"c31903570827b0f3","type":"file","file":"Notes and Images/SaM - Piezoelectric Effect in Details • Direct and Inverse Piezoelectric Effect.md","x":-80,"y":-600,"width":400,"height":400},
+		{"id":"ae7cd7801922dc48","type":"file","file":"Notes and Images/SaM - Piezoelectric Effect.md","x":-480,"y":-600,"width":400,"height":400},
+		{"id":"a96d21b7dcb516f7","type":"file","file":"Notes and Images/SaM - Complete Piezoelectric Device (Actuator + Sensor).md","x":-80,"y":80,"width":400,"height":400},
+		{"id":"596917216d563a1e","type":"file","file":"Notes and Images/SaM - Piezoelectric Devices.md","x":-480,"y":80,"width":400,"height":400},
+		{"id":"6a35e8382bf7de7f","type":"file","file":"SaM - Piezoelectric Coefficient Matrix for PZT.md","x":620,"y":-820,"width":400,"height":400},
+		{"id":"07797c57ce5522a3","type":"file","file":"Notes and Images/SaM - Compact Piezoelectric Coefficient Matrix for PZT • Dependence of Piezoelectricity on Temperature • Curie Temperature.md","x":620,"y":-380,"width":400,"height":400},
+		{"id":"4424cdfeec9e9761","type":"file","file":"Notes and Images/SaM - Comparison Between Different Piezoelectric Materials.md","x":1060,"y":-820,"width":400,"height":400},
+		{"id":"0a2f90246e2e9bfd","type":"file","file":"Notes and Images/SaM - Behavior of the Quartz Ocillator at High Frequencies.md","x":-1360,"y":240,"width":400,"height":400},
+		{"id":"d7fe814883abfd4e","type":"file","file":"Notes and Images/SaM - Quartz Oscillator.md","x":-1760,"y":240,"width":400,"height":400},
+		{"id":"c3f94f04cc18fe7e","type":"file","file":"Notes and Images/SaM - AT-Cut Quartz.md","x":-1560,"y":-280,"width":400,"height":400},
+		{"id":"2f2be679f46a26a7","type":"file","file":"Notes and Images/SaM - Types of Cut Quartzes.md","x":-1560,"y":-800,"width":400,"height":400},
+		{"id":"50c1962469d7942f","type":"file","file":"Notes and Images/SaM - Crystallographic Axis.md","x":-2360,"y":-280,"width":400,"height":400},
+		{"id":"ea8dab1fce9ea2de","type":"file","file":"Notes and Images/SaM - Quartz as a Sensor • QCM (Quartz Crystal Microbalance).md","x":-720,"y":820,"width":400,"height":400},
+		{"id":"2807ef442fdddbdd","type":"file","file":"Notes and Images/SaM - Piezoelectric Accelerometer.md","x":-280,"y":820,"width":400,"height":400},
+		{"id":"63cc429f357c7aa8","type":"file","file":"Notes and Images/SaM - Charge Output Accelerometer.md","x":160,"y":820,"width":400,"height":400},
+		{"id":"2614bcf75c5401d0","type":"file","file":"SaM - Newtonian Fluid Sensor • Shear or Transverse Wave Sensor (Piezoelectric Device).md","x":-280,"y":1340,"width":400,"height":400},
+		{"id":"3b68de3ef26c23e6","type":"file","file":"Notes and Images/SaM - Ultrasonic Transducers (Piezoelectric Device).md","x":-720,"y":1340,"width":400,"height":400},
+		{"id":"48573f79f592e044","type":"file","file":"Notes and Images/SaM - Charge Amplifier.md","x":740,"y":820,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b76a0eedeaa45867","fromNode":"2f2be679f46a26a7","fromSide":"bottom","toNode":"c3f94f04cc18fe7e","toSide":"top"},
+		{"id":"57fb2fab55068c31","fromNode":"50c1962469d7942f","fromSide":"right","toNode":"c3f94f04cc18fe7e","toSide":"left"},
+		{"id":"091eed093afaa600","fromNode":"a4aa2afe5a68d438","fromSide":"bottom","toNode":"ef09ecc8bc073a69","toSide":"top"},
+		{"id":"ef6dec9a772b86ef","fromNode":"a4aa2afe5a68d438","fromSide":"right","toNode":"21bca26b6df2d22a","toSide":"left"},
+		{"id":"87bb26253c333aed","fromNode":"c3f94f04cc18fe7e","fromSide":"bottom","toNode":"633fed976ddd4628","toSide":"top"},
+		{"id":"16bf9cede419af05","fromNode":"7eb89a0799ee7ef2","fromSide":"bottom","toNode":"27290dc49581bbc2","toSide":"left"},
+		{"id":"636751dab8fac525","fromNode":"ef09ecc8bc073a69","fromSide":"bottom","toNode":"27290dc49581bbc2","toSide":"top"},
+		{"id":"b9aea3dac4f9497b","fromNode":"48573f79f592e044","fromSide":"left","toNode":"63cc429f357c7aa8","toSide":"right"}
+	]
+}

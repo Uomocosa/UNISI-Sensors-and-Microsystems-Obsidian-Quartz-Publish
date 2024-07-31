@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"9bc9053463148a60","type":"group","x":-540,"y":-500,"width":2200,"height":440,"label":"Untitled group"},
+		{"id":"7550a5998b911fbc","type":"group","x":-540,"y":-1020,"width":1320,"height":440,"label":"Untitled group"},
+		{"id":"b4d720a7ee48d5b9","type":"group","x":-540,"y":20,"width":880,"height":440,"label":"Untitled group"},
+		{"id":"9be4e1a9b017ef51","type":"file","file":"SaM - Echo Mode for Ultrasonic Beams.md","x":40,"y":-1520,"width":400,"height":400},
+		{"id":"4c0a19cf0d0a4eea","type":"file","file":"Notes and Images/SaM - Measurements & Measurement Types for Ultrasonic Beams.md","x":-520,"y":-1760,"width":400,"height":400},
+		{"id":"26a5152e2d818f16","type":"file","file":"SaM - Transmission Mode for Ultrasonic Beams • C-Mode Image.md","x":40,"y":-2000,"width":400,"height":400},
+		{"id":"9daa363ba90a3b64","type":"file","file":"SaM - Focused Transducer for Ultrasonic Beams.md","x":-80,"y":-1000,"width":400,"height":400},
+		{"id":"ad10d5c076426f51","type":"file","file":"SaM ~ Example of Ultrasonic Beams.md","x":360,"y":-1000,"width":400,"height":400},
+		{"id":"97bd5b3b4f3d7135","type":"file","file":"SaM - Influence of the Source Geometry on the Ultrasonic Filed Shape-Type.md","x":-520,"y":-1000,"width":400,"height":400},
+		{"id":"df3ff65ade92ce10","type":"file","file":"SaM - Ultrasonic Beam Stearing.md","x":-80,"y":-480,"width":400,"height":400},
+		{"id":"55d0efe0c55ff46a","type":"file","file":"SaM - Linear Scanning for Ultrasonic Beams.md","x":360,"y":-480,"width":400,"height":400},
+		{"id":"0012bdde59c3b98a","type":"file","file":"SaM - Control of an Ultrasonic Beam.md","x":-520,"y":-480,"width":400,"height":400},
+		{"id":"5277f8a17a1f2996","type":"file","file":"SaM ~ Real World Example • Ultrasonic Sensors.md","x":800,"y":-480,"width":400,"height":400},
+		{"id":"8d2dd48b61d7762f","type":"file","file":"SaM ~ Real World Example • Use Cases of Ultrasonic Beams.md","x":1240,"y":-480,"width":400,"height":400},
+		{"id":"ad99c7f4d6cdaed2","type":"file","file":"Notes and Images/SaM - Capacitive Ultrasonic Transducers • CMUT Probes.md","x":-520,"y":40,"width":400,"height":400},
+		{"id":"0f18dacbf1ce570c","type":"file","file":"SaM - Alternative to Piezoelectric Arrays for Ultrasonic Beams.md","x":-80,"y":40,"width":400,"height":400},
+		{"id":"2dace9bb7f2ed884","type":"file","file":"SaM - Absorption for Ultrasonic Beams.md","x":-520,"y":520,"width":400,"height":400},
+		{"id":"d5f93a54826f0567","type":"file","file":"Notes and Images/SaM - Ultrasonic Beams.md","x":-1280,"y":-480,"width":400,"height":400},
+		{"id":"fb9f0860b6554e02","type":"file","file":"SaM - Blind Region & Echo Mode Imaging (Biomedicine).md","x":1800,"y":-760,"width":400,"height":400},
+		{"id":"ee0c37da8a4e8816","type":"file","file":"SaM - Schematic of the Echographic System.md","x":1800,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d9776fb9dff41698","fromNode":"4c0a19cf0d0a4eea","fromSide":"right","toNode":"26a5152e2d818f16","toSide":"left"},
+		{"id":"48a570a918a27bbb","fromNode":"4c0a19cf0d0a4eea","fromSide":"right","toNode":"9be4e1a9b017ef51","toSide":"left"},
+		{"id":"86ec315162502c5e","fromNode":"d5f93a54826f0567","fromSide":"right","toNode":"4c0a19cf0d0a4eea","toSide":"left"},
+		{"id":"910cb5da7931207f","fromNode":"d5f93a54826f0567","fromSide":"right","toNode":"7550a5998b911fbc","toSide":"left"},
+		{"id":"386ac5e385d42f08","fromNode":"d5f93a54826f0567","fromSide":"right","toNode":"9bc9053463148a60","toSide":"left"},
+		{"id":"baaa120176b02108","fromNode":"d5f93a54826f0567","fromSide":"right","toNode":"b4d720a7ee48d5b9","toSide":"left"},
+		{"id":"5d61308682e41989","fromNode":"d5f93a54826f0567","fromSide":"right","toNode":"2dace9bb7f2ed884","toSide":"left"},
+		{"id":"b429ff356b7cd0ee","fromNode":"9bc9053463148a60","fromSide":"right","toNode":"fb9f0860b6554e02","toSide":"left"},
+		{"id":"de3c5ffb77543a8c","fromNode":"9bc9053463148a60","fromSide":"right","toNode":"ee0c37da8a4e8816","toSide":"left"}
+	]
+}

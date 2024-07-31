@@ -1,0 +1,4 @@
+#IMPORTANTE 
+![[Pasted image 20230720162403.png]]
+- Propagating in **air**: #IMPORTANTE <br>==We have to use frequency which are usually lower than $1 \ \text{MHz}$.<br>The reason is that with this high frequency you have a very short wavelength so a good spatial resolution along the direction of the propagation of the wave, but you you can travel with the wave for only a short length so short propagation/penetration depth.<br>Therefore the most common frequencies are in the range of $\left[30 \ \text{kHz} \div 50 \ \text{kHz}\right]$ for range measurements==.
+- Similar for **liquid** and **solid**, if I want to see in depht I use a smaller frequency, otherwise If I want "clearer images" or more accuracy a higher frequency.

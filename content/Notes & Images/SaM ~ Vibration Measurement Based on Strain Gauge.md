@@ -1,0 +1,11 @@
+![[Pasted image 20230718184119.png]]
+- Where:
+	- $R$ : sensor, in this particular example we assume to have a [[SaM - Metal Strain Gauge • Passive Strain Sensor|strain gauge]].
+	- $R_W$ : wires resisitance.
+	- $I_{DC}$ : current sources.
+	- $V_{CC}$ : voltage soruce.
+	- [[SaM - Definition of CMRR (Common Mode Rejection Ratio)|CMRR]] : common mode rejection ratio, in this case: CMRR of an [[SaM - AC-Coupled Amplifier|AC-coupled differential amplifier]].<br>⇒ So a **large CMRR value**.
+	- ($C^+_{R1}$ - $E_n$), ($C^+_{R2}$ - $E_n$) : capacitive couplings with $E_n$ (***electrical noise***).<br>==Only the short part of the circuit which is exposed to the electrical noise is affected, so $C^+_{R1}$ and $C^+_{R2}$ are small capacitances==.
+- ==The noise is common mode==. 
+- With this kind of readout electronics, we can see the very small variation of strain due to vibrations.
+- ==In this circuit everything should be **shielded**, **differential** and **AC coupled**, in order to reject as much as possible all the sources of errors==.
